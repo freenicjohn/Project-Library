@@ -1,0 +1,2 @@
+Servo requires 3-6V and 550 mA
+https://www.amazon.com/gp/product/B07MLR1498/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1

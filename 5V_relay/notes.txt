@@ -1,0 +1,2 @@
+Use digital IO on "S" channel to activate
+https://www.amazon.com/ARCELI-KY-019-Channel-Module-arduino/dp/B07BVXT1ZK/ref=sr_1_5?dchild=1&keywords=5v+relay&qid=1618107148&sr=8-5
